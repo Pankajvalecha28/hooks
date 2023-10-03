@@ -1,0 +1,29 @@
+/* Counter.css */
+
+/* Style the counter */
+.Counter {
+    text-align: center;
+  }
+  
+  .Counter h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the buttons */
+  .Counter button {
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  /* Change button color on hover */
+  .Counter button:hover {
+    background-color: #0056b3;
+  }
+  
